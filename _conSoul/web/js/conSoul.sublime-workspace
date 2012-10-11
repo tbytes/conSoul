@@ -1,0 +1,1139 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"func",
+				"func main	func main {...} ʂ"
+			],
+			[
+				"s",
+				"string	built-in ʈ"
+			],
+			[
+				"bo",
+				"body	string ν"
+			],
+			[
+				"fun",
+				"func (*collection)	func (...) {...} ʂ"
+			],
+			[
+				"stri",
+				"string	built-in ʈ"
+			],
+			[
+				"int",
+				"int64	built-in ʈ"
+			],
+			[
+				"do",
+				"document	struct ʈ"
+			],
+			[
+				"P",
+				"ParseInt	i int64, err error ƒ"
+			],
+			[
+				"st",
+				"strings	 package ρ"
+			],
+			[
+				"p",
+				"package	package [name] ʂ"
+			],
+			[
+				"K",
+				"keyInfo	struct ʈ"
+			],
+			[
+				"fl",
+				"float32	built-in ʈ"
+			],
+			[
+				"b",
+				"binary	 package ρ"
+			],
+			[
+				"in",
+				"int64	built-in ʈ"
+			],
+			[
+				"Ke",
+				"KeyStore	struct ʈ"
+			],
+			[
+				"fa",
+				"fartDBString	struct ʈ"
+			],
+			[
+				"S",
+				"Sort	 ƒ"
+			],
+			[
+				"k",
+				"keyInfo	struct ʈ"
+			],
+			[
+				"pa",
+				"page	struct ʈ"
+			],
+			[
+				"pag",
+				"pageInfo	struct ʈ"
+			],
+			[
+				"no",
+				"Now	time.Time ƒ"
+			],
+			[
+				"ti",
+				"Timer	struct ʈ"
+			],
+			[
+				"I",
+				"IsEmpty	bool ƒ"
+			],
+			[
+				"i",
+				"IsEmpty	bool ƒ"
+			],
+			[
+				"uint",
+				"uint8	built-in ʈ"
+			],
+			[
+				"c",
+				"currentNode	*node ν"
+			],
+			[
+				"r",
+				"Replace	string ƒ"
+			],
+			[
+				"new",
+				"newNode	*dawgNode ν"
+			],
+			[
+				"f",
+				"freq	[]int ν"
+			],
+			[
+				"Pr",
+				"Println	 ƒ"
+			],
+			[
+				"byte",
+				"byte	built-in ʈ"
+			],
+			[
+				"Print",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"Bu",
+				"BucketVal	struct ʈ"
+			],
+			[
+				"Bucket",
+				"BucketKey	struct ʈ"
+			],
+			[
+				"Buck",
+				"BucketOverlap	bool ƒ"
+			],
+			[
+				"imp",
+				"import	import (...) ʂ"
+			],
+			[
+				"by",
+				"byte	built-in ʈ"
+			],
+			[
+				"D",
+				"Done	 ƒ"
+			],
+			[
+				"T",
+				"TypeOf	reflect.Type ƒ"
+			],
+			[
+				"Re",
+				"reflect	 package ρ"
+			],
+			[
+				"ma",
+				"func main	func main {...} ʂ"
+			],
+			[
+				"pmtP",
+				"pmtPaidFrom	time.Time ν"
+			],
+			[
+				"pmtPai",
+				"pmtPaidTo	time.Time ν"
+			],
+			[
+				"pmtS",
+				"pmtSrvRate	float64 ν"
+			],
+			[
+				"pmtD",
+				"pmtDtPaid	time.Time ν"
+			],
+			[
+				"pmt",
+				"pmtDefaultRate	float64 ν"
+			],
+			[
+				"fu",
+				"func main	func main {...} ʂ"
+			],
+			[
+				"im",
+				"import	import (...) ʂ"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/tmartino/Dropbox/conSoul/src/main.go",
+			"settings":
+			{
+				"buffer_size": 1080,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/tmartino/Dropbox/_blank/src/main.go",
+			"settings":
+			{
+				"buffer_size": 1411,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/tmartino/Dropbox/_blank/src/server/rpc.go",
+			"settings":
+			{
+				"buffer_size": 2040,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/tmartino/Dropbox/conSoul/example.go",
+			"settings":
+			{
+				"buffer_size": 9250,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/JSLint/JSLint.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"GoSublime: ",
+				"GoSublime: Open shell/build prompt"
+			],
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"js",
+				"Format: Javascript"
+			],
+			[
+				"p",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Snippet: .width"
+			],
+			[
+				"pac",
+				"Package Control: Enable Package"
+			],
+			[
+				"coff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"go",
+				"GoSublime: Install/Update MarGo and Gocode"
+			],
+			[
+				"gs",
+				"GoSublime: Add/Remove package"
+			],
+			[
+				"bui",
+				"GoSublime: Play/Run (current file only)"
+			],
+			[
+				"gosu",
+				"GoSublime: Install/Update MarGo and Gocode"
+			],
+			[
+				"gos",
+				"GoSublime: Install/Update MarGo and Gocode"
+			],
+			[
+				"gosub",
+				"GoSublime: Install/Update MarGo and Gocode"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 494.0
+	},
+	"console":
+	{
+		"height": 156.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/tmartino/Dropbox/conSoul/web/wsTests.html",
+		"/Users/tmartino/Dropbox/conSoul/web/rpc-demo.html",
+		"/Users/tmartino/Dropbox/conSoul/web/js/parseRPC.js",
+		"/Users/tmartino/Dropbox/conSoul/web/wsTests.js",
+		"/Users/tmartino/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/tmartino/Dropbox/_blank/src/main.go",
+		"/Users/tmartino/Dropbox/_blank/src/server/rpc.go",
+		"/Users/tmartino/Dropbox/conSoul/main.go",
+		"/Users/tmartino/Dropbox/_blank/main.go",
+		"/Users/tmartino/Dropbox/_arangoDB/src/main.go",
+		"/Users/tmartino/Dropbox/cafeConLeche_08.13.12/simpServer/src/wislr/conn.go",
+		"/Users/tmartino/Dropbox/_arangoDB/src/web/rpc-demo.html",
+		"/Users/tmartino/Dropbox/conSoul/example.go",
+		"/Users/tmartino/Dropbox/cafeConLeche_08.13.12/simpServer/src/wislr/hub.go",
+		"/Users/tmartino/Dropbox/_arangoDB/src/arangoDb/core.go",
+		"/Users/tmartino/Dropbox/_arangoDB/src/arangoDb/collections.go",
+		"/Users/tmartino/Dropbox/_arangoDB/src/arangoDb/docTypr.go",
+		"/Users/tmartino/Dropbox/_arangoDB/src/arangoDb/REST.go",
+		"/Users/tmartino/Dropbox/Go_Mar31/simpServer/src/wislr/db.go",
+		"/Users/tmartino/Dropbox/_arangoDB/src/arangoDb/core.py",
+		"/usr/local/go/src/pkg/strconv/atoi.go",
+		"/Users/tmartino/Dropbox/gomemcached/mc_constants.go",
+		"/Users/tmartino/Dropbox/gomemcached/client/mc.go",
+		"/Users/tmartino/Library/Application Support/Sublime Text 2/Packages/GoSublime/CHANGELOG.md",
+		"/Volumes/LINUXCNC/linuxcnc.txt",
+		"/Users/tmartino/boboqueue/src/policy.go",
+		"/Users/tmartino/gordian/src/chat/chat.go",
+		"/Users/tmartino/Dropbox/cafeConLeche_08.13.12/CafeConLeche_0.01/src/Q/ethercalc.js",
+		"/Users/tmartino/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/tmartino/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/tmartino/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/tmartino/Dropbox/cafeConLeche_08.13.12/agent_leveldb/src/agent_leveldb.go",
+		"/Users/tmartino/Dropbox/cafeConLeche_08.13.12/CafeConLeche_0.01/src/cmd/cmd.go",
+		"/Users/tmartino/Dropbox/cafeConLeche_08.13.12/aostor/src/aostor/aostor.ini",
+		"/Users/tmartino/Dropbox/cafeConLeche_08.13.12/CafeConLeche_0.01/src/com/std.go",
+		"/Users/tmartino/Dropbox/cafeConLeche_08.13.12/simpServer/src/main.go",
+		"/Users/tmartino/Dropbox/cafeConLeche_08.13.12/CafeConLeche_0.01/src/Q/workers.go",
+		"/Users/tmartino/Dropbox/cafeConLeche_08.13.12/CafeConLeche_0.01/src/Q/mach.go",
+		"/Users/tmartino/Dropbox/cafeConLeche_08.13.12/simpServer/src/wsTest.js",
+		"/Users/tmartino/Library/Application Support/Sublime Text 2/Packages/JsFormat/JsFormat.sublime-settings",
+		"/Users/tmartino/Dropbox/Course:   20-Hour Mortgage Loan Originator SAFE Co",
+		"/Users/tmartino/Dropbox/cafeConLeche_08.13.12/aostor/src/aostor/info.go",
+		"/Users/tmartino/Dropbox/cafeConLeche_08.13.12/aostor/src/srv_aostor/server_test.go",
+		"/Users/tmartino/Dropbox/cafeConLeche_08.13.12/aostor/src/srv_aostor/server.go",
+		"/Users/tmartino/Dropbox/cafeConLeche_08.13.12/aostor/src/srv_aostor/aostor.ini",
+		"/Users/tmartino/Dropbox/cafeConLeche_08.13.12/aostor/src/aostor/tarhelper_test.go",
+		"/Users/tmartino/Dropbox/aostor/tarhelper.go",
+		"/Users/tmartino/Dropbox/aostor/store.go",
+		"/Users/tmartino/Dropbox/cafeConLeche_08.13.12/agent_leveldb/test/test.py",
+		"/Users/tmartino/Dropbox/cafeConLeche_08.13.12/aostor/src/aostor/config.go",
+		"/Users/tmartino/Dropbox/cafeConLeche_08.13.12/aostor/aostor.ini",
+		"/Users/tmartino/Dropbox/cafeConLeche_08.13.12/aostor/src/aostor.ini",
+		"/Users/tmartino/Dropbox/cafeConLeche_08.13.12/aostor/bin/aostor.ini",
+		"/Users/tmartino/Dropbox/cafeConLeche_08.13.12/aostor/pkg/darwin_amd64/aostor.ini",
+		"/Users/tmartino/Dropbox/cafeConLeche_08.13.12/aostor/src/shovel/shovel.go",
+		"/Users/tmartino/Dropbox/cafeConLeche_08.13.12/aostor/src/aostor/compact_staging.go",
+		"/Users/tmartino/Dropbox/cafeConLeche_08.13.12/aostor/src/compressor/compressor.go",
+		"/Users/tmartino/Dropbox/cafeConLeche_08.13.12/aostor/src/aostor/store.go",
+		"/Users/tmartino/Dropbox/cafeConLeche_08.13.12/aostor/src/aostor/tarhelper.go",
+		"/Users/tmartino/Dropbox/cafeConLeche_08.13.12/aostor/tarhelper.go",
+		"/Users/tmartino/Dropbox/cafeConLeche_08.13.12/CafeConLeche_0.01/src/cmd/main.go",
+		"/Users/tmartino/.bash_profile",
+		"/Users/tmartino/Downloads/couchstore/configure.ac",
+		"/Users/tmartino/Dropbox/go-tagger/go-tagger",
+		"/Users/tmartino/Dropbox/cafeConLeche_08.13.12/CafeConLeche_0.01/src/grammer/wradix.go",
+		"/Users/tmartino/Dropbox/cafeConLeche_08.13.12/CafeConLeche_0.01/src/grammer/types.go",
+		"/Users/tmartino/Dropbox/cafeConLeche_08.13.12/CafeConLeche_0.01/src/grammer/words.go",
+		"/Users/tmartino/Dropbox/cafeConLeche_08.13.12/CafeConLeche_0.01/src/grammer/word.go",
+		"/Users/tmartino/Dropbox/cafeConLeche_08.13.12/CafeConLeche_0.01/src/darts/darts.go",
+		"/Users/tmartino/Dropbox/cafeConLeche_08.13.12/CafeConLeche_0.01/src/grammer/units.go",
+		"/Users/tmartino/Dropbox/cafeConLeche_08.13.12/CafeConLeche_0.01/src/wradix/wradix.go",
+		"/Users/tmartino/Dropbox/radix/radix.go",
+		"/Users/tmartino/Dropbox/go.db2/src/godb/iterator.go",
+		"/Users/tmartino/Dropbox/go.db2/src/bplus/query.go",
+		"/Users/tmartino/Dropbox/cafeConLeche_08.13.12/CafeConLeche_0.01/src/hashes/util.go",
+		"/Users/tmartino/Dropbox/go.db2/src/cmd.go",
+		"/Users/tmartino/Dropbox/go.db2/src/main.go",
+		"/Users/tmartino/Dropbox/go.db2/src/godb/db.go",
+		"/Users/tmartino/Dropbox/go.db2/src/godb/index.go",
+		"/Users/tmartino/Dropbox/memcached-A/src/main/gocache.go",
+		"/Users/tmartino/Dropbox/memcached-A/src/memcached/transport.go",
+		"/Users/tmartino/Dropbox/agent_leveldb/src/leveldb/leveldb.go",
+		"/Users/tmartino/Dropbox/agent_leveldb/src/agent_server/agent_server.go",
+		"/Users/tmartino/Dropbox/go-darts.8.9.12/src/darts/dawg.go",
+		"/Users/tmartino/Dropbox/go-tagger/src/tagger/hmm.go",
+		"/Users/tmartino/Dropbox/officeWorkSpace/markov/src/hmm_tagger/HMM.go",
+		"/Users/tmartino/Dropbox/go-tagger/src/main.go",
+		"/Users/tmartino/Dropbox/go-tagger/corpus/written.95.train",
+		"/Users/tmartino/Dropbox/go-tagger/src/tagger.go",
+		"/Users/tmartino/Dropbox/go-tagger/src/main/hmm.go",
+		"/Users/tmartino/Dropbox/go-tagger/src/main/tagger.go",
+		"/Users/tmartino/Dropbox/go-darts.8.9.12/src/darts/darts_test.go",
+		"/Users/tmartino/Dropbox/go-tagger/src/hmm.go",
+		"/Users/tmartino/Dropbox/go-darts.8.9.12/src/darts_test.go",
+		"/Users/tmartino/Dropbox/go-darts.8.9.12/dawg.go",
+		"/Users/tmartino/Dropbox/go-dartsA/dawg.go",
+		"/Users/tmartino/Dropbox/go-darts/src/darts/dawg.go",
+		"/Users/tmartino/Dropbox/officeWorkSpace/structures/src/darts/dawg.go",
+		"/Users/tmartino/Dropbox/Go_Mar31/CafeConLeche_0.01/src/hashes/prop/propHash.go",
+		"/Users/tmartino/Dropbox/Go_Mar31/CafeConLeche_0.01/src/hashes/prop/word.txt",
+		"/Users/tmartino/Dropbox/officeWorkSpace/markov/src/grammer/words.go",
+		"/Users/tmartino/Dropbox/officeWorkSpace/markov/src/fasttag/FastTag.go",
+		"/Users/tmartino/Dropbox/officeWorkSpace/markov/src/cmd.go",
+		"/Users/tmartino/Dropbox/go-darts/src/main.go",
+		"/Users/tmartino/Dropbox/go-darts/src/new.txt",
+		"/Users/tmartino/Dropbox/go-darts/src/darts/darts.go",
+		"/Users/tmartino/Dropbox/go-darts/src/darts.txt",
+		"/Users/tmartino/Dropbox/go-darts/src/darts/deBug.txt",
+		"/Users/tmartino/Dropbox/Go_Mar31/CafeConLeche_0.01/src/dlib/types.go",
+		"/Users/tmartino/Dropbox/officeWorkSpace/markov/src/fasttag/fastTags.txt",
+		"/Users/tmartino/Dropbox/go-darts/main.go",
+		"/Users/tmartino/Dropbox/go-darts/darts.go",
+		"/Users/tmartino/Dropbox/officeWorkSpace/markov/src/fasttag/corpus.go",
+		"/Users/tmartino/Dropbox/Go_Mar31/CafeConLeche_0.01/src/treapTest.go",
+		"/Users/tmartino/Dropbox/Go_Mar31/CafeConLeche_0.01/src/com/persist.go",
+		"/Users/tmartino/Dropbox/officeWorkSpace/markov/src/fasttag/tagList.txt",
+		"/Users/tmartino/Dropbox/Go_Mar31/CafeConLeche_0.01/src/mgoTest.go",
+		"/Users/tmartino/Dropbox/Go_Mar31/CafeConLeche_0.01/src/cmd/cmd.go",
+		"/Users/tmartino/Dropbox/Go_Mar31/natLang/src/main.go",
+		"/Users/tmartino/Dropbox/Go_Mar31/simpServer/src/cmd/gosynchclient.go",
+		"/Users/tmartino/Dropbox/Go_Mar31/simpServer/src/cmd/index.go",
+		"/Users/tmartino/Dropbox/Go_Mar31/simpServer/src/cmd/cmd.go",
+		"/Users/tmartino/Dropbox/officeWorkSpace/structures/src/darts/darts.go",
+		"/Users/tmartino/Dropbox/Go_Mar31/CafeConLeche_0.01/src/dlib/payment.go",
+		"/Users/tmartino/Dropbox/officeWorkSpace/structures/src/main.go",
+		"/Users/tmartino/Dropbox/go-graph/src/graph/algorithms_test.go",
+		"/Users/tmartino/Dropbox/go-graph/src/graph/neighbours_extractor.go",
+		"/Users/tmartino/Dropbox/go-graph/src/graph/iterators.go"
+	],
+	"find":
+	{
+		"height": 257.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ws",
+			"base",
+			"+j",
+			"qualif",
+			"application",
+			"\"app",
+			"hud-1 f",
+			"underwr",
+			"pmi",
+			"servic",
+			"application?",
+			"race whe",
+			"protection",
+			"card",
+			"less ",
+			"payment",
+			"all cash",
+			"covered by",
+			"NOT covered by",
+			"family home is NOT covered by",
+			"single",
+			"single family",
+			"single family home is NOT",
+			"single family home is NOT covered by",
+			"the lender should NOT",
+			"higher-priced loan",
+			"these loans would be excluded",
+			"Truth in Lending Statement",
+			"prohibits",
+			"discrimination",
+			"prohibits discrimination",
+			"prohibits discrimination based",
+			"div",
+			"option",
+			"host",
+			"readd",
+			"ConfigFile",
+			"aostor.ini",
+			"aostor",
+			"LoadPage",
+			"LoadPage ",
+			"totalsplits",
+			"FileMode",
+			"b ",
+			"public void ",
+			";",
+			"storage",
+			"out",
+			"mg",
+			"mgi",
+			"RaptorDB",
+			"dog",
+			"\"",
+			"TagViterbi",
+			"Value interface{}",
+			")\n",
+			"cpwpu",
+			"words_range",
+			"check",
+			"key",
+			"base",
+			"fmt",
+			"terminal",
+			"subwords",
+			"valuepool",
+			"fmt.",
+			"fmt",
+			"insert",
+			"termin",
+			"index",
+			"begin",
+			"insert",
+			"index",
+			"lastchar",
+			"fetch",
+			"freq",
+			"acceptable",
+			"freq",
+			"fmt",
+			"keys",
+			"freq",
+			"sub",
+			"freq",
+			"fetchd",
+			"pairl",
+			"insertDAWG",
+			"freq",
+			"考察队员",
+			"build",
+			"Freq",
+			"4",
+			"3",
+			"subword",
+			"考察队员",
+			"考",
+			"考察队员",
+			"2",
+			"\n",
+			" I ",
+			"base",
+			"print",
+			"fmt",
+			"dawg",
+			"path"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"os",
+			"func (sf *storageFile) ",
+			"",
+			"fartDB"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/tmartino/Dropbox/conSoul/src/main.go",
+					"settings":
+					{
+						"buffer_size": 1080,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								653,
+								653
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Go/Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 236.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/tmartino/Dropbox/_blank/src/main.go",
+					"settings":
+					{
+						"buffer_size": 1411,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								917,
+								917
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Go/Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 352.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/tmartino/Dropbox/_blank/src/server/rpc.go",
+					"settings":
+					{
+						"buffer_size": 2040,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1217,
+								1217
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Go/Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/tmartino/Dropbox/conSoul/example.go",
+					"settings":
+					{
+						"buffer_size": 9250,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5863,
+								5863
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Go/Go.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1107.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GsDoc-output-output":
+	{
+		"height": 123.0
+	},
+	"output.coffeecompile_output":
+	{
+		"height": 142.0
+	},
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.gscommander:///Users/tmartino/Dropbox/_blank/src/server":
+	{
+		"height": 303.0
+	},
+	"output.hex_viewer_inspector":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/tmartino/Documents/Go_Mar31/oneTwo/oneTwo.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 181.0,
+	"status_bar_visible": true
+}
